@@ -44,8 +44,8 @@ a h3{
     color: rgb(120, 4, 95);
 }
 
-a h3:visited{
-    color: green;
+a h3:hover{
+    color: royalblue;
 }
 
 .hero{
