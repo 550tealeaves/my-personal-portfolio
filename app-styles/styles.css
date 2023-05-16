@@ -7,9 +7,8 @@
 body{
     font-family: var(--default-font-family);
     background-color: rgb(255, 247, 255);
-    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/225/original/eberhard-grossgasteiger-jCL98LGaeoE-unsplash_%282%29.jpg?1684221683);
+    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/231/original/augustine-wong-li0iC0rjvvg-unsplash.jpg?1684223101);
     backdrop-filter: blur(15px);
-
 }
 
 h2, h3, h5, h6{
