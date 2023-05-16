@@ -1,5 +1,3 @@
 # my-personal-portfolio
 
-Final project from the SheCodes Response workshop
-Probably the most important final assignment because we created a portfolio with a few pages that features all other completed projects
-> Ideally would like to implement some type of JS component
+This portfolio contains my digital works. For interactive data visualization, please read the reflection piece listed in the repository. I have updated 3 tutorials and added the original final project. 
