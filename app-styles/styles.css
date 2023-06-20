@@ -269,4 +269,8 @@ footer .social-links a:hover{
     nav a{
         font-size: 12px;
     }
+
+    .yogurt-pic{
+        margin: 60px auto;
+    }
 }
