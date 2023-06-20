@@ -164,6 +164,11 @@ nav a:hover, nav li.active a{
     height: 460px;
 }
 
+.weather-pic{
+    height: 388px;
+    
+}
+
 .dictionary-pic{
     height: 388px;
 }
@@ -216,6 +221,7 @@ footer .social-links a:hover{
 
     img{
         display: block;
+        margin: 30px auto;
     }
 
     .hero p{
