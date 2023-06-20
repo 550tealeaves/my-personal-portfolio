@@ -245,7 +245,7 @@ footer .social-links a:hover{
     }
 
     a h3{
-        font-size: 22px;
+        font-size: 18px;
     }
 
     h4{
@@ -273,4 +273,9 @@ footer .social-links a:hover{
     .yogurt-pic{
         margin: 60px auto;
     }
+
+    p a{
+        font-size: 16px;
+    }
+
 }
